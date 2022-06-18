@@ -1,0 +1,21 @@
+h1 {
+ font-size: 25px , improtant;
+}
+
+.btn-sucess:hover {
+
+    background-color: red;
+}
+
+canvas {
+
+animation-name: name ;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+}
+
+@keyframes name {
+
+from {box-shadow: 1px 1px 120px red;}
+to {box-shadow: 1px 1px 120px yellow;}
+}
